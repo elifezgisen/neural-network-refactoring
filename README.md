@@ -12,7 +12,7 @@ We have blood sample data from 355 people with the 4 most common types of cancer
 
 In this project, a multi-class classification algorithm will be implemented. (A single neural network model will predict an unknown sample for any of the 4 classes.)
 
-Classification Algorithms
+## Classification Algorithms
 
 As the core method, a classifier, which is a multilayer perceptron, is implemented.
 
