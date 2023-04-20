@@ -2,7 +2,7 @@
 
 Multi Layer Perceptron (MLP)
 
-**Activation Functions Used:**
+**Activation Functions:**
 
 - ReLU
 - Sigmoid
